@@ -38,7 +38,7 @@ To get a local copy up and running follow these simple example steps.
 
 ## Authors
 
-👤 **Author1**
+👤 **Kemar Norton**
 
 - GitHub: [@githubhandle](https://github.com/kemar-art)
 
